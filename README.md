@@ -1,4 +1,4 @@
-🔭 I’m currently working on developing coding skills
+🔭 I’m currently working on developing coding skills \n
 🌱 I’m currently focusing on API's
 👯 I’m looking to collaborate on Github
 🥅 2023 Goals: Be a better human
